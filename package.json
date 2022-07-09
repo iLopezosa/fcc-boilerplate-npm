@@ -20,6 +20,7 @@
 		"ilopezosa",
 		"Back End Development and APIs"
 	],
+	"license": "GPL-3.0-only",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
