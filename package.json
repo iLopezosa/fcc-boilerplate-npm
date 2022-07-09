@@ -2,6 +2,24 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ignacio Lopezosa Serrano",
 	"description": "A package.json file for learning npm (this description was written by GitHub copilot... Scary)",
+	"keywords": [
+		"npm",
+		"package",
+		"json",
+		"learning",
+		"freecodecamp",
+		"freecodecamp.org",
+		"nodejs",
+		"node",
+		"javascript",
+		"Back End",
+		"Back-End",
+		"API",
+		"api",
+		"node.js",
+		"ilopezosa",
+		"Back End Development and APIs"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
