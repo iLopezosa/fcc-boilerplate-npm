@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ignacio Lopezosa Serrano",
+	"description": "A package.json file for learning npm (this description was written by GitHub copilot... Scary)",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
