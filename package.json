@@ -21,6 +21,7 @@
 		"Back End Development and APIs"
 	],
 	"license": "GPL-3.0-only",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
